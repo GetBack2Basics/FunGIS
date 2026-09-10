@@ -20,7 +20,7 @@ FunGIS is a regional community of GIS professionals, researchers, and practition
 - Supporting regional planning, environmental management, and community initiatives
 - Experimenting with emerging spatial technologies and cloud-native architectures
 
-**Contribution:** George was on the Exec from 2011 to 2022 and Chair from 2014 to 2018. He continues to support FunGIS, especially during conferences and currently supports the education and AI initiatives.
+**Contribution:** George was on the Exec from 2011 to 2022 and Chair from 2014 to 2018. He continues to support FunGIS, especially during conferences and currently serves on the education and AI initiative committees.
 
 **Key Community Values:**
 - **Practical, reusable knowledge** — tooling and workflows designed to be reproducible and adapted across contexts
